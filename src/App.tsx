@@ -14,7 +14,7 @@ function App() {
           {/* Header */}
           <header className="text-center mb-12">
             <h1 className="text-4xl font-bold mb-4">
-              My React App
+              The react app
             </h1>
             <p className="text-gray-600">
               Built with React, TypeScript, Tailwind CSS & shadcn/ui
